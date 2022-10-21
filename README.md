@@ -13,13 +13,13 @@ Monitoring key parameters like Temperature, Humidity, Power Failure, Fire Detect
 - IR Flame/Fire Sensor  
 - ZMPT101B AC Voltage Sensor  
 
+<img src="/Images/opla-kit.jpg" height="250" >  
+
 💽 **Software**  
 - Arduino IoT Cloud  
 - Arduino Web Editor  
 - Microsoft VS Code  
 - PlatformIO IDE  
-
-<img src="/Images/opla-kit.jpg" height="250" >
 
 ------------------------------------------------------------------------------------------------------
 
