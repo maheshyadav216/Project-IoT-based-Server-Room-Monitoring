@@ -27,7 +27,7 @@ Monitoring key parameters like Temperature, Humidity, Power Failure, Fire Detect
 
 ▶️ Project - IoT Based Server Room Monitoring System - 🔗 https://youtu.be/wIpf_Kuexmw  
 
-</br>
+------------------------------------------------------------------------------------------------------
 
 #### 📜 Arduino Project Hub  
 🔗 https://create.arduino.cc/projecthub/maheshyadav2162/iot-based-server-room-monitoring-system-1ec820  
