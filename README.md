@@ -7,17 +7,17 @@
 Monitoring key parameters like Temperature, Humidity, Power Failure, Fire Detection and Smoke Detection on Arduino IoT dashboard.  
 
 
-🛠 Hardware  
-- **Arduino Oplà IoT Kit**  
-- **MQ2 Gas/Smoke Sensor**  
-- **IR Flame/Fire Sensor**  
-- **ZMPT101B AC Voltage Sensor**  
+🛠 **Hardware**  
+- Arduino Oplà IoT Kit  
+- MQ2 Gas/Smoke Sensor  
+- IR Flame/Fire Sensor  
+- ZMPT101B AC Voltage Sensor  
 
-💽Software  
-- **Arduino IoT Cloud**  
-- **Arduino Web Editor**  
-- **Microsoft VS Code**  
-- **PlatformIO IDE**  
+💽 **Software**  
+- Arduino IoT Cloud  
+- Arduino Web Editor  
+- Microsoft VS Code  
+- PlatformIO IDE  
 
 <img src="/Images/opla-kit.jpg" height="250" >
 
